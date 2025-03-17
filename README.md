@@ -1,4 +1,4 @@
-## Hi there, I'm Shivarama Krishna Koyalakonda!👋
+q## Hi there, I'm Shivarama Krishna Koyalakonda!👋
 
 I'm a passionate Machine Learning & Data Scientist with a strong background in Cloud Data Analytics, Deep Learning, and Big Data Technologies. With 2+ years of experience in the field, I thrive on solving complex data-driven problems and building AI-powered solutions.
 
@@ -18,12 +18,12 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 ## 🔹 Programming Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&stye=for-the-badge"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&style=for-the-badge"/>
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=for-the-badge"/>
 
 ## 🤖 Machine Learning & Data Science
 ![Data Science](https://img.shields.io/badge/Data%20Science-5A5A5A?style=for-the-badge&logo=dataiku&logoColor=white)
