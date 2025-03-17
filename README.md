@@ -15,6 +15,7 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 <p align="Left">
 # 🚀 My Skills & Expertise
 
+<p  align="left>
 ## 🔹 Programming Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&stye=for-the-badge"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&style=for-the-badge"/>
@@ -24,6 +25,7 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=for-the-badge"/>
+</p>
 
 ## 🤖 Machine Learning & Data Science
 <img src="https://img.shields.io/badge/Data%20Science-5A5A5A?style=for-the-badge&logo=dataiku&logoColor=white&style=for-the-image"/>
