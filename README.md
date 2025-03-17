@@ -26,7 +26,7 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=for-the-badge"/>
 
 ## 🤖 Machine Learning & Data Science
-![Data Science](https://img.shields.io/badge/Data%20Science-5A5A5A?style=for-the-badge&logo=dataiku&logoColor=white)
+<img src="https://img.shields.io/badge/Data%20Science-5A5A5A?style=for-the-badge&logo=dataiku&logoColor=white&style=for-the-image"/>
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
 
