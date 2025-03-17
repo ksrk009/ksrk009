@@ -4,19 +4,9 @@ I'm a passionate Machine Learning & Data Scientist with a strong background in C
 
 I hold a Master’s degree in Information Science and Technology from Missouri S&T and a Bachelor’s degree in Computer Science from Osmania University. My journey in data science has been fueled by curiosity, continuous learning, and hands-on projects across domains like Computer Vision, NLP, Predictive Analytics, and Data Engineering.
 
-🔬 What I Do?<br>
-🧠 Machine Learning & Deep Learning – From building predictive models to deploying AI-powered applications.<br>
-📊 Data Analytics & Visualization – Uncovering insights from large datasets using Python, SAP, and big data tools.<br>
-🖼️ Computer Vision & Image Processing – Worked on Face Detection (RetinaNet), Super-Resolution (GANs), and Aging Detection.<br>
-📈 NLP & Text Analytics – Tweet sentiment analysis, LLM research, and chatbot development.<br>
-☁️ Cloud & Big Data – Leveraging AWS, GCP, PySpark, and Hadoop for scalable data solutions.<br>
-🔍 ERP & SAP Analytics – Expertise in SAP HANA, SAC, and SAS Visual Analytics.<br>
-
-<p align="Left">
-# 🚀 My Skills & Expertise
 
 ## 🔹 Programming Languages
-<p  align="left>
+<p  align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&stye=for-the-badge"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white&style=for-the-badge"/>
@@ -28,9 +18,11 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 </p>
 
 ## 🤖 Machine Learning & Data Science
+<p align="left">
 <img src="https://img.shields.io/badge/Data%20Science-5A5A5A?style=for-the-badge&logo=dataiku&logoColor=white&style=for-the-image"/>
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white&style=for-the-image"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white&style=for-the-image"/>
+</p>
 
 ## 📊 Data Analysis & Visualization
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1E88E5?style=for-the-badge&logo=databricks&logoColor=white)
