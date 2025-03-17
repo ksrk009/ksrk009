@@ -4,25 +4,20 @@ I'm a passionate Machine Learning & Data Scientist with a strong background in C
 
 I hold a Master’s degree in Information Science and Technology from Missouri S&T and a Bachelor’s degree in Computer Science from Osmania University. My journey in data science has been fueled by curiosity, continuous learning, and hands-on projects across domains like Computer Vision, NLP, Predictive Analytics, and Data Engineering.
 
-
 ## 🔹 Programming Languages
-<p  align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&style=for-the-badge"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 🤖 Machine Learning & Data Science
-<p align="left">
-<img src="https://img.shields.io/badge/Data%20Science-5A5A5A?style=for-the-badge&logo=dataiku&logoColor=white&style=for-the-image"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white&style=for-the-image"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white&style=for-the-image"/>
-</p>
+![Data Science](https://img.shields.io/badge/Data%20Science-5A5A5A?style=for-the-badge&logo=dataiku&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ## 📊 Data Analysis & Visualization
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-1E88E5?style=for-the-badge&logo=databricks&logoColor=white)
@@ -70,6 +65,5 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-003366?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Analytics Cloud](https://img.shields.io/badge/SAP%20Analytics%20Cloud-FFC107?style=for-the-badge&logo=sap&logoColor=black)
 ![SAP Designer Studio](https://img.shields.io/badge/SAP%20Designer%20Studio-8E24AA?style=for-the-badge&logo=sap&logoColor=white)
-
 🎯 What I’m Looking For?<br>
 I am currently seeking opportunities in Data Science, Machine Learning, or Deep Learning Engineering, where I can apply my expertise in AI, Cloud, and Big Data to drive impactful solutions.
