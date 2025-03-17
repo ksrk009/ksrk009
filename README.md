@@ -14,7 +14,7 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 
 <p align="Left">
 <img src="https://img.shields.io/badge/Data_Science-ML-blue?logo=scikitlearn&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep_Learning-DL-orange?logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-DL-orange?logo=tensorflow&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Neural_Networks-ANN/CNN-red?logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-Data_Manipulation-blue?logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-Data_Analysis-orange?logo=numpy&logoColor=white"/>
