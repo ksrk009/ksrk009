@@ -1,4 +1,4 @@
-q## Hi there, I'm Shivarama Krishna Koyalakonda!👋
+## Hi there, I'm Shivarama Krishna Koyalakonda!👋
 
 I'm a passionate Machine Learning & Data Scientist with a strong background in Cloud Data Analytics, Deep Learning, and Big Data Technologies. With 2+ years of experience in the field, I thrive on solving complex data-driven problems and building AI-powered solutions.
 
