@@ -65,5 +65,6 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-003366?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP Analytics Cloud](https://img.shields.io/badge/SAP%20Analytics%20Cloud-FFC107?style=for-the-badge&logo=sap&logoColor=black)
 ![SAP Designer Studio](https://img.shields.io/badge/SAP%20Designer%20Studio-8E24AA?style=for-the-badge&logo=sap&logoColor=white)
+
 🎯 What I’m Looking For?<br>
 I am currently seeking opportunities in Data Science, Machine Learning, or Deep Learning Engineering, where I can apply my expertise in AI, Cloud, and Big Data to drive impactful solutions.
