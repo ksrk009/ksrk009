@@ -53,7 +53,10 @@ I am currently seeking opportunities in Data Science, Machine Learning, or Deep 
 
 ## Connect with Me  
 <a href="https://www.linkedin.com/in/shivarama-krishna-koyalakonda/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">
+</a>
+<a href="mailto:koyalakondashivaramakrishna@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="30" height="30">
 </a>
 
 
