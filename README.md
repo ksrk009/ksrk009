@@ -4,6 +4,9 @@ I'm a passionate Machine Learning & Data Scientist with a strong background in C
 
 I hold a Master’s degree in Information Science and Technology from Missouri S&T and a Bachelor’s degree in Computer Science from Osmania University. My journey in data science has been fueled by curiosity, continuous learning, and hands-on projects across domains like Computer Vision, NLP, Predictive Analytics, and Data Engineering.
 
+🎯<b>What I’m Looking For?<br></b>
+I am currently seeking opportunities in Data Science, Machine Learning, or Deep Learning Engineering, where I can apply my expertise in AI, Cloud, and Big Data to drive impactful solutions.
+
 <!-- Programming Languages-->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -51,7 +54,6 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 
 
 
-🎯<b>What I’m Looking For?<br></b>
-I am currently seeking opportunities in Data Science, Machine Learning, or Deep Learning Engineering, where I can apply my expertise in AI, Cloud, and Big Data to drive impactful solutions.
+
 
 
