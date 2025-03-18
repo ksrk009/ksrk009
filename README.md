@@ -51,5 +51,7 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 
 
 
-🎯 What I’m Looking For?<br>
+🎯 ##What I’m Looking For?<br>
 I am currently seeking opportunities in Data Science, Machine Learning, or Deep Learning Engineering, where I can apply my expertise in AI, Cloud, and Big Data to drive impactful solutions.
+
+
