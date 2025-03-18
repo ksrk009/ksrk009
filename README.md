@@ -51,8 +51,9 @@ I am currently seeking opportunities in Data Science, Machine Learning, or Deep 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-## Connect with Me  
-![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/shivarama-krishna-koyalakonda/)
+## Connect with Me  <a href="https://www.linkedin.com/in/shivarama-krishna-koyalakonda/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24">
+</a>
 
 
 
