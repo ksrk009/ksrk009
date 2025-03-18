@@ -45,8 +45,9 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-2E7C31?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP ERP](https://img.shields.io/badge/SAP%20ERP-0076A8?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP BusinessObjects](https://img.shields.io/badge/SAP%20BusinessObjects-002F6C?style=for-the-badge&logo=sap&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 
 
