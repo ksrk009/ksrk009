@@ -52,7 +52,8 @@ I am currently seeking opportunities in Data Science, Machine Learning, or Deep 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivarama-krishna-koyalakonda/)
+![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/shivarama-krishna-koyalakonda/)
+
 
 
 
