@@ -49,5 +49,6 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
+
 🎯 What I’m Looking For?<br>
 I am currently seeking opportunities in Data Science, Machine Learning, or Deep Learning Engineering, where I can apply my expertise in AI, Cloud, and Big Data to drive impactful solutions.
