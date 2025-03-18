@@ -37,6 +37,9 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0171B8?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ## Business Analytics & SAP
 ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-2E7C31?style=for-the-badge&logo=sap&logoColor=white)
