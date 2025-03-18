@@ -4,7 +4,7 @@ I'm a passionate Machine Learning & Data Scientist with a strong background in C
 
 I hold a Master’s degree in Information Science and Technology from Missouri S&T and a Bachelor’s degree in Computer Science from Osmania University. My journey in data science has been fueled by curiosity, continuous learning, and hands-on projects across domains like Computer Vision, NLP, Predictive Analytics, and Data Engineering.
 
-## Programming Languages
+<!-- Programming Languages-->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -25,7 +25,7 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 ![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3E6CE8?style=for-the-badge&logo=plotly&logoColor=white)
 
-## Data Engineering & Big Data
+<!--Data Engineering & Big Data-->
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CC33?style=for-the-badge&logo=hadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -41,7 +41,7 @@ I hold a Master’s degree in Information Science and Technology from Missouri S
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-## Business Analytics & SAP
+<!-- Business Analytics & SAP-->
 ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-2E7C31?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP ERP](https://img.shields.io/badge/SAP%20ERP-0076A8?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP BusinessObjects](https://img.shields.io/badge/SAP%20BusinessObjects-002F6C?style=for-the-badge&logo=sap&logoColor=white)
