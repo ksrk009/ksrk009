@@ -1,11 +1,15 @@
 ## Hi there, I'm Shivarama Krishna Koyalakonda!👋
+ currently pursuing my Master’s in **Information Science and Technology** at **Missouri University of Science and Technology**. With a background in Computer Science and hands-on experience across data engineering, analytics, and machine learning, I’m passionate about solving real-world problems with scalable and intelligent solutions.
 
-I'm a passionate Machine Learning & Data Scientist with a strong background in Cloud Data Analytics, Deep Learning, and Big Data Technologies. With 2+ years of experience in the field, I thrive on solving complex data-driven problems and building AI-powered solutions.
+---
 
-I hold a Master’s degree in Information Science and Technology from Missouri S&T and a Bachelor’s degree in Computer Science from Osmania University. My journey in data science has been fueled by curiosity, continuous learning, and hands-on projects across domains like Computer Vision, NLP, Predictive Analytics, and Data Engineering.
+Over the last few years, I've worked across roles that span cloud-based data infrastructure, business intelligence, and applied machine learning. Whether it's building pipelines on **AWS**, analyzing large datasets with **Python** and **SQL**, or designing insightful dashboards using **Power BI** or **Tableau**, I thrive at the intersection of data and decision-making.
 
-🎯<b>What I’m Looking For?<br></b>
-I am currently seeking opportunities in Data Science, Machine Learning, or Deep Learning Engineering, where I can apply my expertise in AI, Cloud, and Big Data to drive impactful solutions.
+Lately, I’ve been diving deeper into **Generative AI**, **real-time data streaming**, and tools like **Apache Flink** and **Terraform**, expanding my skill set to support modern data platforms and intelligent systems.
+
+Beyond the code and cloud, I care deeply about building systems that empower others — whether through automating workflows, visualizing data for business impact, or mentoring students in tech. I’m constantly exploring how emerging technologies like **LLMs** and **MLOps** can drive innovation and create real value.
+
+---
 
 ### 🛠️ Skills & Technologies
 
