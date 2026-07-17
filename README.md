@@ -7,8 +7,7 @@
 I'm a Data Scientist and AI/ML Engineer with **4+ years of enterprise-level experience** building production-grade AI systems across financial services, healthcare, e-commerce, and technology domains. I specialize in structured LLM reasoning, regulated ML model deployment, and real-time analytics engineering — always aligned to measurable business outcomes.
 
 🎓 **M.S. Information Science & Technology** — Missouri University of Science & Technology (May 2025)  
-🎓 **B.Tech Computer Science & Engineering** — Osmania University  
-📍 Based in **Leander, Austin, TX**  
+
 📧 koyalakondashiva97@gmail.com | 📞 573-537-0643
 
 ---
